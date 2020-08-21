@@ -1,7 +1,11 @@
 # ShortestPathFinder
 Program to find the shortest path from a start cell to a finish cell in a square grid
 
-### Two algorithms: BFS or A Star (with Manhattan or Euclidian heuristic)
+### Two algorithms:
+* BFS (Dijkstra)
+* A Star
+  * Manhattan
+  * Euclidian
 
 ![screenshot1](https://i.ibb.co/0MHC5yn/ss1.png)
 
